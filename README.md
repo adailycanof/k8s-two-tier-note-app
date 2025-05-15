@@ -75,7 +75,7 @@ This document outlines the architecture and design decisions for the K8s Notes A
 Architecture Overview
 The Notes Application follows a two-tier architecture with the following components:
 
-```mermaid
+```
 ┌──────────────────┐      ┌──────────────────┐
 │                  │      │                  │
 │  Frontend        │      │  Backend API     │
